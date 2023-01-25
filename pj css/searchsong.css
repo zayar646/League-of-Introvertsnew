@@ -65,13 +65,13 @@
     padding: 0px 15px;
 }
 #start{
-    background-image: url("../League-of-Introverts/pj photo1/sound-unscreen.gif");
+    background-image: url("../pj photo1/sound-unscreen.gif");
 }
 #stop1{
-    background-image: url("../League-of-Introverts/pj photo1/unscreen-001.png");
+    background-image: url("../pj photo1/unscreen-001.png");
 }
 #lop{
-    background-image: url("../League-of-Introverts/pj photo1/loop.png");
+    background-image: url("../pj photo1/loop.png");
     background-size: cover;
     background-position: center;
     border: 0px;
@@ -104,10 +104,10 @@
     transition: opacity 0.2s ease-in-out 0s;
 }
 #volu{
-    background-image: url("../League-of-Introverts/pj photo1/volume-up.png");
+    background-image: url("../pj photo1/volume-up.png");
 }
 #vold{
-    background-image: url("../League-of-Introverts/pj photo1/volume-down.png");
+    background-image: url("../pj photo1/volume-down.png");
 }
 
 .searchsongbutton:hover{
